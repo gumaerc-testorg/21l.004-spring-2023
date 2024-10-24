@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/21l-004-reading-poetry-social-poetics-spring-2023/living_poetry_with_joshua_bennet.vtt
+file: /ol-ocw-studio-app/courses/21l-004-reading-poetry-social-poetics-spring-2023/living_poetry_with_joshua_bennet.vtt
 file_size: 120458
 file_type: text/vtt
 image_metadata:
