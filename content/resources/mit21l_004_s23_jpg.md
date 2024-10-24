@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/21l-004-reading-poetry-social-poetics-spring-2023/mit21l_004_s23.jpg
+file: /ol-ocw-studio-app/courses/21l-004-reading-poetry-social-poetics-spring-2023/mit21l_004_s23.jpg
 file_size: 2339399
 file_type: image/jpeg
 image_metadata:
