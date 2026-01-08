@@ -7,11 +7,10 @@ file_size: 2339399
 file_type: image/jpeg
 image_metadata:
   caption: This course explores the work of many influential poets, including Gwendolyn
-    Brooks, the first Black poet to win the Pulitzer Prize. (Image courtesy of {{%
-    resource_link "feaa2e06-25e2-482e-8c6e-9233170cbecc" "duncan" %}} on Flickr. Used
-    under CC BY-NC.)
-  credit: Image courtesy of {{% resource_link "feaa2e06-25e2-482e-8c6e-9233170cbecc"
-    "duncan" %}} on Flickr. Used under CC BY-NC.
+    Brooks, the first Black poet to win the Pulitzer Prize. (Image courtesy of [duncan](https://flic.kr/p/2ok3TAT)
+    on Flickr. Used under CC BY-NC.)
+  credit: Image courtesy of [duncan](https://flic.kr/p/2ok3TAT) on Flickr. Used under
+    CC BY-NC.
   image-alt: A large wooden plank rests on a sidewalk, surrounded by greenery. The
     poem "We are each other's harvest" by Gwendolyn Brooks has been painted on in
     white.
@@ -31,4 +30,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-This course explores the work of many influential poets, including Gwendolyn Brooks, the first Black poet to win the Pulitzer Prize. (Image courtesy of {{% resource_link "feaa2e06-25e2-482e-8c6e-9233170cbecc" "duncan" %}} on Flickr. License: CC BY-NC.)
+This course explores the work of many influential poets, including Gwendolyn Brooks, the first Black poet to win the Pulitzer Prize. (Image courtesy of [duncan](https://flic.kr/p/2ok3TAT) on Flickr. License: CC BY-NC.)

@@ -9,4 +9,4 @@ The episode of the Chalk Radio podcast embedded below features a wide-ranging co
 
 {{< resource uuid="f6665e2b-dbb2-467c-a41e-17a9ad19f0ec" >}}
 
-For more information specifically on how Prof. Bennett teaches *21L.004 Reading Poetry: Social Poetics*, see this {{% resource_link "5947ac91-589e-4d75-bad8-3abc001a4c18" "class profile" %}} which originally appeared in the newsletter of MIT's School of Humanities, Arts and Social Sciences.
+For more information specifically on how Prof. Bennett teaches *21L.004 Reading Poetry: Social Poetics*, see this [class profile](https://lit.mit.edu/inside-the-classroom-with-prof-joshua-bennett-mit-shass-news-2023/) which originally appeared in the newsletter of MIT's School of Humanities, Arts and Social Sciences.
